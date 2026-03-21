@@ -1,0 +1,5 @@
+# Add files and directories to ignore
+node_modules/
+build/
+*.log
+.env
