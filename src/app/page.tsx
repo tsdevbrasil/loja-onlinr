@@ -1,7 +1,7 @@
-import React from 'react';
-
-const Page: React.FC = () => {
-  return <h1>Hello World</h1>;
-};
-
-export default Page;
+export default function Page() {
+  return (
+    <main>
+      <h1>Minha loja online 🚀</h1>
+    </main>
+  )
+}
